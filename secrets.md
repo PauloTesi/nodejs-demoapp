@@ -1,5 +1,25 @@
-password: 123mudar
+Type: AWS::ApiGateway::ApiKey
 
-tokenAPI: ejtwijasidjasdiaosdjiaoidjaoidaoi204jvnadkfjnakjfnajdfnadnf
+Properties:
 
-apiKey: ejatgsduasnavnavvnfidnv
+  CustomerId: String
+
+  Description: String
+
+  Enabled: Boolean
+
+  GenerateDistinctId: Boolean
+
+  Name: String
+
+  StageKeys: 
+
+    - StageKey
+
+  Tags: 
+
+    - Tag
+
+  Value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiYWRtaW4iOnRydWUsImlhdCI6MTUxNjIzOTAyMn0.KMUFsIDTnFmyG3nMiGM6H9FNFUROf3wh7SmqJp-QV30
+
+  Password: "YjNCbGJpQnpaWE5oYldVPQo="
